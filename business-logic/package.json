@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "core-js": "^3.5.0",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.26.38"
+  }
+}

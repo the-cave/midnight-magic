@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.common.json",
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es5",
+      "es2015"
+    ]
+  }
+}
